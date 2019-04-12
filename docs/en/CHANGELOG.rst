@@ -12,16 +12,16 @@ Changed
 -  Mandates phone numbers to be strings
 
 [core-0.2/it-0.2] - 2019-03-13
-------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Added
-~~~~~
+'''''
 
 -  A new ``piattaforme`` section has been created to group the platforms
    inside of it.
 
 Changed
-~~~~~~~
+'''''''
 
 -  The ``conforme/accessibile`` key becomes
    ``conforme/lineeGuidaDesign`` since it is more self-explanatory.
@@ -35,7 +35,7 @@ Changed
    ``privacy`` term is quite vague and incomplete.
 
 Removed
-~~~~~~~
+'''''''
 
 -  The ``ecosistemi`` key has been removed since its values are already
    present in the ``intendedAudience/scope`` key.
@@ -43,12 +43,12 @@ Removed
    design kits usages by means of the crawler.
 
 [core-0.2] - 2019-03-11
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _added-1:
 
 Added
-~~~~~
+'''''
 
 -  A new ``countryExtensionVersion`` key was added under each
    country-specific extension, in order to separate their versioning
@@ -61,7 +61,7 @@ Added
 .. _changed-1:
 
 Changed
-~~~~~~~
+'''''''
 
 -  ``intendedAudience/onlyFor`` was renamed to
    ``intendedAudience/scope`` (with a different dictionary of values).
@@ -78,17 +78,17 @@ Changed
 .. _removed-1:
 
 Removed
-~~~~~~~
+'''''''
 
 -  The ``freeTags`` key was removed.
 
 [core-0.1] - 2019-01-25
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _added-2:
 
 Added
-~~~~~
+'''''
 
 -  Files for first release
 
