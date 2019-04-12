@@ -4,7 +4,7 @@ Changelog
 Tutti i cambiamenti di questo progetto saranno documentati in questo
 file.
 
-[core-0.2/it-0.2] - 2019-03-13
+[core-0.2;it-0.2] - 2019-03-13
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Aggiunte
