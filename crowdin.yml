@@ -1,0 +1,3 @@
+files:
+  - source: /docs/standard/*.rst
+    translation: /docs/%locale%/%original_file_name%
